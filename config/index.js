@@ -43,7 +43,7 @@ export const config = {
     // 所在省份
     PROVINCE: "江苏",
     // 所在城市
-    CITY: "泰兴",
+    CITY: "泰州",
 
     /** 重要节日相关 */
 
