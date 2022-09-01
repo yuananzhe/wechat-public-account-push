@@ -4,16 +4,16 @@ export const config = {
      */
 
     // 公众号APP_ID
-    APP_ID: "",
+    APP_ID: "wx40db2e2d2ef821c0",
 
     // 公众号APP_SECRET
-    APP_SECRET: "",
+    APP_SECRET: "7bac66517a1bd4f0ce6107741aaf8953",
 
     // 模板消息id
-    TEMPLATE_ID: "",
+    TEMPLATE_ID: "RbzoCdjohdCwC11XM1LEq92mW1ni7d1t1NwAjT_J6FU",
 
     // 回调消息模板id, 用来看自己有没有发送成功的那个模板
-    CALLBACK_TEMPLATE_ID: "",
+    CALLBACK_TEMPLATE_ID: "oxJML67U5kJtIPWJ-kr-9yamXlyQ",
 
 
     /**
@@ -41,9 +41,9 @@ export const config = {
     /** 天气相关 */
 
     // 所在省份
-    PROVINCE: "广东",
+    PROVINCE: "江苏",
     // 所在城市
-    CITY: "惠州",
+    CITY: "泰兴",
 
     /** 重要节日相关 */
 
@@ -54,9 +54,9 @@ export const config = {
      * 节日时，name填写相应展示的节日，你可以填“被搭讪纪念日”
      */
     FESTIVALS: [
-      {"type": "生日", "name": "老婆", "year": "1996", "date": "09-02"},
+      {"type": "生日", "name": "薛薛大宝贝", "year": "2003", "date": "10-03"},
       {"type": "节日", "name": "结婚纪念日", "year": "2020", "date": "09-03"},
-      {"type": "生日", "name": "李四", "year": "1996", "date": "09-31"},
+      {"type": "生日", "name": "袁安哲", "year": "2003", "date": "02-28"},
       {"type": "节日", "name": "被搭讪纪念日", "year": "2021", "date": "09-01"},
     ],
 
@@ -75,7 +75,7 @@ export const config = {
       * */
     CUSTOMIZED_DATE_LIST: [
       // 在一起的日子
-      {"keyword": "love_day", date: "2015-05-01"},
+      {"keyword": "love_day", date: "2022-02-26"},
       // 结婚纪念日
       {"keyword": "marry_day", date: "2020-01-04"},
       // 退伍日, 不用可以删掉
